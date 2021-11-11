@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mumtazf
-- 👀 I’m interested in Business Data Analytics
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on beginner projects
+- 👀 I’m interested in Software Development and Business Data Analytics
+- 🌱 I’m currently learning Flask
+- 💞️ I’m looking to collaborate on intermediate-level projects
 
 <!---
 mumtazf/mumtazf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
