@@ -1,5 +1,6 @@
-👋 Hi, I’m @mumtaz
-Thank you for stopping by my github profile. I'm an aspiring software engineer who loves learning new programming techniques one project at a time. 
+👋 Hi, I’m @mumtaz. 
+Thank you for stopping by my github profile. I love learning new programming techniques one project at a time.
+As you view my profile, I'd like you to ponder on the question - what do you truly enjoy learning and did you dedicate enough time pursuing that interest?
 
 
 
