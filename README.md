@@ -1,4 +1,4 @@
-👋 Hi, I’m @mumtaz. <br>
+👋 Hi, I’m Mumtaz. <br>
 
 Thank you for stopping by my github profile. <br>
 
