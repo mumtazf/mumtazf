@@ -1,4 +1,4 @@
-👋 Hi, I’m Mumtaz. <br>
+👋 Hi, I’m Mumtaz Fatima. <br>
 
 Thank you for stopping by my github profile. <br>
 
@@ -12,3 +12,4 @@ mumtazf/mumtazf is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <body>Mumtaz Fatima</body>
+<head>Mumtaz Fatima</head>
