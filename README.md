@@ -11,5 +11,7 @@ I personally ponder on two questions and center my projects around its answers -
 mumtazf/mumtazf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<body>Mumtaz Fatima</body>
-<head>Mumtaz Fatima</head>
+<head>
+  <meta title = "Mumtaz Fatima Github"/>
+  <meta name="description" content="Mumtaz Fatima. Computer Science and Economics Major at Mount Holyoke College. Software Engineering Intern. Passionate about CS education for underrepresented students and enjoys tinkering with different technologies."/>
+</head>
