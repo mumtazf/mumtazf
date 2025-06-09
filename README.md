@@ -1,10 +1,8 @@
 👋 Hi, I’m Mumtaz Fatima. <br>
 
-Thank you for stopping by my github profile. <br>
+I love learning new programming techniques one project at a time. Here you will find my website portfolio, my habit buddies app, a nature-inspired version of Wordle, and more. <br>
 
-I love learning new programming techniques one project at a time. Here you will find my website portfolio, a small todo app, a modified version of Wordle, and more. <br>
-
-I personally ponder on two questions and center my projects around its answers - what do I truly enjoy learning and what was the first time I felt passionate towards what I was about to learn? 
+Before starting any project, I typically ponder on two questions and then center my projects around its answers - what do I truly enjoy learning and how do my interests intersect with leaving a positive impact on society?
 <br> If you'd like to share your answers to these questions, reach out to me on <a href = "https://www.linkedin.com/in/mumtazf/"> LinkedIn </a> and I'll love to learn more about you! 
 
 
